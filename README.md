@@ -10,9 +10,9 @@ Fork this repository, add your name here, followed by GitHub ID, and submit a pu
 
 Adira Blumenthal, AdiraBlumenthal, 2024
 
-[Kai Kang](https://github.com/Asai-Yume) Asai-Yume
+[Kai Kang](https://github.com/Asai-Yume) Asai-Yume, 2024
 
-Roy Wang 2025, redrn  
+Roy Wang 2025, redrn
 
 Yumeng He, 2024, ymh1003
 
