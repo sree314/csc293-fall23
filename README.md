@@ -7,8 +7,4 @@
 ## Students
 
 Fork this repository, add your name here, followed by GitHub ID, and submit a pull request.
-[Kai Kang](https://github.com/Asai-Yume)
-
-
-
-
+[Kai Kang](https://github.com/Asai-Yume) Asai-Yume
