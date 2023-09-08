@@ -5,6 +5,7 @@
 [Sreepathi Pai](https://cs.rochester.edu/~sree/)
 
 ## Students
+Adira Blumenthal, AdiraBlumenthal
 
 [Roy Wang](https://github.com/redrn/)
 
