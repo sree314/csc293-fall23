@@ -7,7 +7,7 @@
 ## Students
 Adira Blumenthal, AdiraBlumenthal
 
-[Roy Wang](https://github.com/redrn/)
+Roy Wang 2025, redrn  
 
 Yumeng He, 2024, ymh1003
 
