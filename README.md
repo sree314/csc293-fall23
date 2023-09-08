@@ -5,7 +5,7 @@
 [Sreepathi Pai](https://cs.rochester.edu/~sree/)
 
 ## Students
-Adira Blumenthal, AdiraBlumenthal
+Adira Blumenthal, AdiraBlumenthal, 2024
 
 Roy Wang 2025, redrn  
 
