@@ -6,7 +6,7 @@
 
 ## Students
 
-[Roy Wang](https://github.com/redrn/)
+Roy Wang 2025, redrn  
 
 Yumeng He, ymh1003
 
