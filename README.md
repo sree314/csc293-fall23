@@ -5,8 +5,8 @@
 [Sreepathi Pai](https://cs.rochester.edu/~sree/)
 
 ## Students
+Adira Blumenthal, AdiraBlumenthal
 
-Fork this repository, add your name here, followed by GitHub ID, and submit a pull request.
 
 
 
