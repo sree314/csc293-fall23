@@ -6,7 +6,7 @@
 
 ## Students
 
-Fork this repository, add your name here, followed by GitHub ID, and submit a pull request.
+[Roy Wang](https://github.com/redrn/)
 
 Yumeng He, ymh1003
 
