@@ -1,0 +1,140 @@
+Census of Artifacts in 3D Printed Manufacturing
+
+Goal: Examine the repositories or release files of a 3D Printed
+project, identify the different artifacts, and evaluate them
+qualitatively.
+
+Process: Each repository will be examined by one student. The results
+of the census will be written up as a text/markdown file using the
+format below and incorporated into the CSC293 repository. See below
+for the following steps.
+
+Here are the repositories we will use:
+
+Voron Stealthburner - https://github.com/VoronDesign/Voron-Stealthburner/
+Haxophone - https://github.com/cardonabits/haxo-hw/
+Nevermore V6 (only the V6 directory) - https://github.com/nevermore3d/Nevermore_Micro/
+Flatburn - https://github.com/MIT-Senseable-City-Lab/OSCS
+PUMA - https://github.com/TadPath/PUMA
+
+# Download the Repository
+
+1. Checkout the repository assigned to you.
+
+2. Generate a list of files in the repository into a text file.
+
+   For example, on Linux, assuming the repository is haxo-hw:
+
+```
+   git clone ...
+   cd haxo-hw
+   find > /path/to/csc293-fall23/census/haxo-hw.txt
+```
+
+   Then, you can open up `haxo-hw.txt` in your favorite text editor
+   and add comments for each file in the repository, following the
+   instructions below.
+
+Ignore all files starting with a '.'
+
+Ignore all files that are not CAD, STL, BOM, or Documentation, or
+unrelated to 3D Printing. These files include: source code, electronic
+designs (PCBs).
+
+# Instructions for documenting each type of file
+
+## Native/Source CAD file
+
+These files are used by designers to create and edit models.
+
+These files have the extension `.FCStd` (FreeCAD), `.f3d` (Fusion
+360), `.skp` (Sketch Up), `.sld*` (SolidWorks), etc.
+
+For each such file, just identify the type of tool used to produce the
+CAD file.
+
+Example:
+
+./FreeCAD/Dominus_v3.1_part2.FCStd
+  FreeCAD source file
+
+## Portable CAD file
+
+This is almost always a `.step` file.
+
+Just note the following:
+     - "Multipart", if the step file contains multiple part
+     - "Single Part", if the step file contains a single part
+     - "Non-printable", if the step file contains non-printing elements (e.g., screws)
+
+You can use Maya to look at the STEP file.
+
+## Documentation
+
+Documentation serves many purposes and comes in many formats. Common formats are:
+
+  - `.md`: Markdown
+  - `.txt`: Plain text
+  - `.pdf`: PDF documentation
+
+Documentation may not be in the repository, in that case you can note
+it in the overall section (see below). For example, it may be hosted
+elsewhere as an HTML file.
+
+For each documentation file, add the following notes.
+
+  - "Assembly instructions", if the file contains steps for assembly
+  - "Print settings", if the file contains settings for 3D printing
+  - "Fabrication instructions", if the file contains instructions for making non-3D printed parts (e.g., PCBs)
+  - "Image", if the file contains images
+  - "Wireframe", if the file contains images and they are wireframes
+  - "Photo", if the file contains images and they are photos
+  - "Video", if the file contains videos
+  - "Render", if the file contains images and they are rendered from 3D models
+  - "Entry point", if the file is the first document that a user should read
+  - "BOM", if the file contains a BOM as part of the documentation
+
+## Bill of Materials
+
+A standalone BOM may be supplied as a spreadsheet, usually `.csv`, or
+`.xlsx`. It may also be hosted elsewhere.
+
+Just make note if the file contains a BOM.
+
+## Printable Models (or Meshes)
+
+Printable models or meshes are files with extensions `.3mf` or
+`.stl`. Other formats are possible, but rare.
+
+For each model file, add the following notes:
+  - "Oriented", if the part is oriented for correct printing in your opinion
+  - "Not oriented", if the part is not oriented for correct printing
+  - "Count", if the filename contains how many copies to print
+  - "Material", if the filename contains hints on materials to use (color, etc.)
+
+You can use `fstl` or the GitHub STL viewer to view the files.
+
+## Overall
+
+At the end of the list of files, create a "file" called "#Overall" and
+add the following information.
+
+Do the files use some naming conventions?
+
+Do the file names include version information?
+
+If the documentation is off site, the link to the documentation.
+
+If the BOM is off site, the link to the BOM.
+
+## Check in the repository
+
+Check your findings into the `csc293-fall23` repository and push it to
+GitHub. Use the project name as the name of the file.
+
+Since each of you is working on different projects, we can push
+directly to the main branch, and the conflicts should not be hard to
+handle.
+
+I have created a `sample.txt` file in this directory as an example of
+a fictitious project.

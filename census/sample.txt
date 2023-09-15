@@ -1,0 +1,31 @@
+project/README.md
+	Documentation
+	Entry point
+	Image
+	Photo
+project/machine.FCStd
+	FreeCAD Source File
+project/machine.step
+	Multipart
+	Non-printable
+project/Build.md
+	Documentation
+	Assembly Instructions
+	Print Settings
+	Image
+	Wireframe
+	Render
+	BOM
+project/images/photo1.jpg
+project/images/photo2.jpg
+project/images/render1.png
+project/images/render2.png
+project/board.kicad
+project/part1.stl
+	Oriented
+project/part2_clear.stl
+	Oriented
+	Material
+#Overall
+File conventions: No
+Version names in files: No
