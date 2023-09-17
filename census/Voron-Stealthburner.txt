@@ -1,0 +1,147 @@
+Voron-Stealthburner/CAD/Bowden_Module/Bowden_Module.f3p
+    Fusion 360
+Voron-Stealthburner/CAD/Bowden_Module/Bowden_Module.step
+    Multipart 
+    Non-printable
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_Dragon.stp
+    Single Part
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_Phaetus_BMO.stp
+    Single Part
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_Phaetus_BMS_6_Fin.stp
+    Single Part
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_Phaetus_BMS_7_Fin.stp
+    Single Part
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_Rapido.step
+    Multipart
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_RevoMicro.stp
+    Single Part
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_RevoVoron.stp
+    Single Part
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_V6_R6.stp
+    Single Part
+Voron-Stealthburner/CAD/Printheads/Stealthburner_Printhead_V6.stp
+    Multipart
+Voron-Stealthburner/CAD/Stealthburner_CW2_Assembly.step
+    Multipart
+    Non-printable
+Voron-Stealthburner/Manual/Assembly_Manual_SB.pdf 
+    Assembly instructions
+    Wireframe
+    Photo
+    Entry point
+    Video
+Voron-Stealthburner/Manual/Assembly_Manual_High_Contrast.pdf
+    Assembly instructions
+    Wireframe
+    Photo
+    Entry point
+    Video
+Voron-Stealthburner/STLs/Clockwork2/[a]_pcb_spacer.stl
+    Oriented 
+    Material
+Voron-Stealthburner/STLs/Clockwork2/cable_door.stl
+    Oriented
+Voron-Stealthburner/STLs/Clockwork2/cable_door_for_pcb.stl
+    Oriented
+Voron-Stealthburner/STLs/Clockwork2/chain_anchor_2hole.stl
+    Oriented
+Voron-Stealthburner/STLs/Clockwork2/chain_anchor_2hole_SW.stl
+    Oriented
+Voron-Stealthburner/STLs/Clockwork2/chain_anchor_3hole.stl
+    Oriented
+Voron-Stealthburner/STLs/Clockwork2/chain_anchor_3hole_SW.stl
+    Oriented
+Voron-Stealthburner/STLs/Clockwork2/Direct_Drive/motor_plate.stl
+    Oriented
+Voron-Stealthburner/STLs/Clockwork2/Direct_Drive/main_body.stl
+    Oriented
+Voron-Stealthburner/STLs/Clockwork2/Direct_Drive/[a]_latch_shuttle.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Clockwork2/Direct_Drive/[a]_latch.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Clockwork2/Direct_Drive/[a]_guidler_b.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Clockwork2/Direct_Drive/[a]_guidler_a.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Clockwork2/Bowden/rear_stealthburner_bowden_M10_cw2_x1.stl
+    Oriented
+    Count
+Voron-Stealthburner/STLs/Clockwork2/Bowden/rear_stealthburner_bowden_ECAS_cw2_x1.stl
+    Oriented
+    Count
+Voron-Stealthburner/STLs/Clockwork2/Bowden/front_stealthburner_bowden_M10_cw2_x1.stl
+    Oriented
+    Count
+Voron-Stealthburner/STLs/Clockwork2/Bowden/front_stealthburner_bowden_ECAS_cw2_x1.stl
+    Oriented
+    Count
+Voron-Stealthburner/STLs/Clockwork2/Bowden/[a]_front_stealthburner_bowden_spacer_x1.stl
+    Oriented
+    Count
+    Material
+Voron-Stealthburner/STLs/Stealthburner/[o]_stealthburner_LED_diffuser_mask.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Stealthburner/[o]_stealthburner_LED_carrier.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Stealthburner/[c]_stealthburner_LED_diffuser.stl   
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Stealthburner/[a]_stealthburner_main_body.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Stealthburner/Printheads/revo_voron/stealthburner_printhead_revo_voron_rear_cw2.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/revo_voron/stealthburner_printhead_revo_voron_front.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_rear_cw2.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/revo_six_and_v6/stealthburner_printhead_v6_r6_front.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/revo_micro/stealthburner_printhead_revo_micro_rear_cw2.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/revo_micro/stealthburner_printhead_revo_micro_front.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/phaetus_rapido/stealthburner_printhead_rapido_rear_cw2.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/phaetus_rapido/stealthburner_printhead_rapido_front.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/phaetus_dragon/stealthburner_printhead_dragon_rear_cw2.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/phaetus_dragon/stealthburner_printhead_dragon_front.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/phaetus_bms/stealthburner_printhead_bms_rear_cw2.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/phaetus_bms/stealthburner_printhead_bms_front.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/phaetus_bmo/stealthburner_printhead_bmo_rear_cw2.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/Printheads/phaetus_bmo/stealthburner_printhead_bmo_front.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_washer_x2.stl
+    Oriented
+    Count
+Voron-Stealthburner/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_mount_sparkfun_LIS3DH.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_mount_ldo_15mm_c_c.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_mount_adafruit_LIS3DH.stl
+    Oriented
+Voron-Stealthburner/STLs/Stealthburner/ADXL345_Mounts/sb_adxl_mount_adafruit_19mm_c_c.stl
+    Oriented
+    Material
+Voron-Stealthburner/STLs/Tools/SB_5015_Cutting_Tool_B.stl
+    Oriented
+Voron-Stealthburner/STLs/Tools/SB_5015_Cutting_Tool_A.stl
+    Oriented
+
+Voron-Stealthburner/Overall
+    Each folder has a naming convention but there is not a clear unified naming convention
+    File names do not contain versioning info or last updated dates
+    https://www.vorondesign.com/voron_stealthburner 
