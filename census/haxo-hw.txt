@@ -1,0 +1,228 @@
+.
+./haxo-hw
+./haxo-hw/builds
+./haxo-hw/builds/haxophone001-1.0.zip
+./haxo-hw/builds/haxophone001-bom-1.0.csv
+    BOM
+./haxo-hw/builds/haxophone001-bottom-pos-1.0.csv
+    BOM
+./haxo-hw/builds/jlcpcb-ordering-info.txt
+    BOM
+./haxo-hw/CONTRIBUTING.md
+    Link to Github of license and contributions
+./haxo-hw/docs
+./haxo-hw/docs/assembly.md
+    Assembly instructions
+./haxo-hw/docs/development.md
+    Assembly instructions (Hardware and Compilation)
+./haxo-hw/docs/disable-float.tex
+./haxo-hw/docs/images
+./haxo-hw/docs/images/3dparts.png
+    Image
+./haxo-hw/docs/images/assembly
+./haxo-hw/docs/images/assembly/40pos_connector.jpg
+    Photo
+./haxo-hw/docs/images/assembly/all_keys.jpg
+    Photo
+./haxo-hw/docs/images/assembly/conventions.jpg
+    Photo
+./haxo-hw/docs/images/assembly/lbracket_one.jpg
+    Photo
+./haxo-hw/docs/images/assembly/lbracket_three.jpg
+    Photo
+./haxo-hw/docs/images/assembly/lbracket_two.jpg
+    Photo
+./haxo-hw/docs/images/assembly/neck_one.jpg
+    Photo
+./haxo-hw/docs/images/assembly/neck_three.jpg
+    Photo
+./haxo-hw/docs/images/assembly/neck_two.jpg
+    Photo
+./haxo-hw/docs/images/assembly/octave_back.jpg
+    Photo
+./haxo-hw/docs/images/assembly/octave_flush.jpg
+    Photo
+./haxo-hw/docs/images/assembly/panels_one.jpg
+    Photo
+./haxo-hw/docs/images/assembly/panels_two.jpg
+    Photo
+./haxo-hw/docs/images/assembly/pipes_one.jpg
+    Photo
+./haxo-hw/docs/images/assembly/pipes_two.jpg
+    Photo
+./haxo-hw/docs/images/assembly/pi_one.jpg
+    Photo
+./haxo-hw/docs/images/assembly/pi_two.jpg
+    Photo
+./haxo-hw/docs/images/assembly/right_con_one.jpg
+    Photo
+./haxo-hw/docs/images/assembly/right_con_three.jpg
+    Photo
+./haxo-hw/docs/images/assembly/right_con_two.jpg
+    Photo
+./haxo-hw/docs/images/assembly/sensor_one.jpg
+    Photo
+./haxo-hw/docs/images/assembly/sensor_three.jpg
+    Photo
+./haxo-hw/docs/images/assembly/sensor_two.jpg
+    Photo
+./haxo-hw/docs/images/assembly/sidecon_one.jpg
+    Photo
+./haxo-hw/docs/images/assembly/sidecon_two.jpg
+    Photo
+./haxo-hw/docs/images/assembly/sprayprotection1.jpg
+    Photo
+./haxo-hw/docs/images/assembly/sprayprotection2.jpg
+    Photo
+./haxo-hw/docs/images/assembly/thread.jpg
+    Photo
+./haxo-hw/docs/images/assembly/thrests.jpg
+    Photo
+./haxo-hw/docs/images/assembly/thumb_screw.jpg
+    Photo
+./haxo-hw/docs/images/block-diagram.png
+    Image
+./haxo-hw/docs/images/devel-setup.png
+    Image
+./haxo-hw/docs/images/fingering-matrix.png
+    Image
+./haxo-hw/docs/images/fingering-matrix.svg
+./haxo-hw/docs/images/hat-pinout.png
+    Image
+./haxo-hw/docs/images/haxophone-black.png
+    Photo
+./haxo-hw/docs/images/haxophone-main.png
+    Photo
+./haxo-hw/docs/images/haxophone-pair.png
+    Photo
+./haxo-hw/docs/images/haxophone-pcb.png
+    Photo
+./haxo-hw/docs/images/haxophone001-back.png
+    Image
+./haxo-hw/docs/images/haxophone001-front.png
+    Image
+./haxo-hw/docs/images/haxophone001-side.png
+    Image
+./haxo-hw/docs/images/path884.png
+    Image
+./haxo-hw/docs/images/renders.png
+    Image
+./haxo-hw/docs/images/vscode.png
+    Image
+./haxo-hw/docs/instructions_safety.md
+    Assembly instructions
+./haxo-hw/docs/instructions_safety_en.md
+    WRONG (Only has the name instructions_safety.md)
+./haxo-hw/docs/instructions_safety_ge.md
+    Assembly instructions (in German)
+./haxo-hw/docs/Makefile
+./haxo-hw/docs/ordering_process.md
+    Fabrication instructions
+./haxo-hw/fp-lib-table
+./haxo-hw/haxo001.pretty
+./haxo-hw/haxo001.pretty/Breakout tab.kicad_mod
+./haxo-hw/haxo001.pretty/C18594.kicad_mod
+./haxo-hw/haxo001.pretty/C381130.kicad_mod
+./haxo-hw/haxo001.pretty/L-ShapeBracket.kicad_mod
+./haxo-hw/haxo001.pretty/neck.kicad_mod
+./haxo-hw/haxo001.pretty/OSHW-logo_silkscreen-front_1mm.kicad_mod
+./haxo-hw/haxo001.pretty/OSHW_COPPER_10MM.kicad_mod
+./haxo-hw/haxo001.pretty/SOT1693.kicad_mod
+./haxo-hw/haxo001.pretty/thumb_rest.kicad_mod
+./haxo-hw/haxo001_library.dcm
+./haxo-hw/haxo001_library.lib
+./haxo-hw/haxophone001-cache.lib
+./haxo-hw/haxophone001.dsn
+./haxo-hw/haxophone001.kicad_pcb
+./haxo-hw/haxophone001.kicad_pcb-bak
+./haxo-hw/haxophone001.kicad_prl
+./haxo-hw/haxophone001.kicad_pro
+./haxo-hw/haxophone001.kicad_sch
+./haxo-hw/haxophone001.net
+./haxo-hw/haxophone001.sch-bak
+./haxo-hw/haxophone001.ses
+./haxo-hw/keyswitch-kicad-library
+./haxo-hw/libs
+./haxo-hw/libs/mcp3221.lib
+./haxo-hw/LICENSE
+./haxo-hw/models
+./haxo-hw/models/3225 SMD Crystal Oscillator.STEP
+    Single part
+./haxo-hw/models/C18166-Part.step
+    Single part
+./haxo-hw/models/C18166.FCStd
+    FreeCAD source file
+./haxo-hw/models/C18166.FCStd1
+    FreeCAD source file
+./haxo-hw/models/Cherry MX keycaps.step
+    Multipart
+./haxo-hw/models/cherry-mx-with-2U-keycap-Cherry_MX_with_keycap.step
+    Multipart
+./haxo-hw/models/cherry-mx-with-2U-keycap.FCStd
+    FreeCAD source file
+./haxo-hw/models/cherry-mx-with-2U-keycap.FCStd1
+    FreeCAD source file
+./haxo-hw/models/cherry-mx-with-keycap-Cherry_MX_with_keycap.step
+    Multipart
+./haxo-hw/models/cherry-mx-with-keycap.FCStd
+    FreeCAD source file
+./haxo-hw/models/cherry-mx-with-keycap.FCStd1
+    FreeCAD source file
+./haxo-hw/models/hook_rest-Part.step
+    Single part
+./haxo-hw/models/hook_rest-Part.stl
+    Not oriented
+./haxo-hw/models/hook_rest-Part.wrl
+./haxo-hw/models/hook_rest.FCStd
+    FreeCAD source file
+./haxo-hw/models/hook_rest.FCStd1
+    FreeCAD source file
+./haxo-hw/models/lbracket-PartBody.step
+    Single part
+./haxo-hw/models/lbracket.FCStd
+    FreeCAD source file
+./haxo-hw/models/lbracket.FCStd1
+    FreeCAD source file
+./haxo-hw/models/mpxv7007-Part.step
+    Multipart
+./haxo-hw/models/mpxv7007.FCStd
+    FreeCAD source file
+./haxo-hw/models/mpxv7007.FCStd1
+    FreeCAD source file
+./haxo-hw/models/neck-neck.step
+    Single part
+./haxo-hw/models/neck-neck.stl
+    oriented
+./haxo-hw/models/neck.FCStd
+    FreeCAD source file
+./haxo-hw/models/neck.FCStd1
+    FreeCAD source file
+./haxo-hw/models/octave_rest-Part.step
+    Single part
+./haxo-hw/models/octave_rest-Part.stl
+    Not oriented
+./haxo-hw/models/octave_rest.FCStd
+    FreeCAD source file
+./haxo-hw/models/octave_rest.FCStd1
+    FreeCAD source file
+./haxo-hw/models/PJ-3280-B-SMT-Part.step
+    Single part
+./haxo-hw/models/PJ-3280-B-SMT.FCStd
+    FreeCAD source file
+./haxo-hw/models/PJ-3280-B-SMT.FCStd1
+    FreeCAD source file
+./haxo-hw/MX_Alps_Hybrid
+./haxo-hw/pack.sh
+./haxo-hw/README.md
+    Entry point
+./haxo-hw/scripts
+./haxo-hw/scripts/bom2grouped_jlcpcb.xsl
+./haxo-hw/scripts/jlcpcb-pos-csp-process.sh
+./haxo-hw/sym-lib-table
+./haxo-hw/TODO.md
+    "Footprint for audio jack Audio codec placement and routing"
+./haxo-hw.txt
+
+#Overall
+File conventions: Yes, the files have some naming conventions such as "component_name.step", or some intuitive names such as "hook_rest-Part.step".
+Version names in files: No
