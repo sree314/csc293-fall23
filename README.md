@@ -16,4 +16,4 @@ Roy Wang 2025, redrn
 
 Yumeng He, 2024, ymh1003
 
-Samantha Kriegsman --> skriegsman
+[Samantha Kriegsman](https://github.com/skriegsman), 2024
