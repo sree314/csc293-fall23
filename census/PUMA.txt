@@ -1,0 +1,120 @@
+PUMA/3D_Printing/CE3_Cura/Condenser.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/Flats.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/P_AR_Tube.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/Plates.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/Pol_to_baseplate.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/Stamps.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/Stamps.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/TFTLightShield.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/WashersSpacers.curaprofile
+	Print settings
+PUMA/3D_Printing/CE3_Cura/XYStabiliser.curaprofile
+	Print settings
+PUMA/3D_Printing/PUMA_3D_Printing_Guide.pdf
+	Entry point
+	Print settings
+	Image
+	Photo
+	Render
+PUMA/3D_Printing/ReadMe_PUMA_3DP.md
+PUMA/Bill_of_Materials/PUMA_Bill_of_Materials.xls
+	BOM
+PUMA/Bill_of_Materials/ReadMe_BOM.md
+PUMA/Electronics/Control_Console/README.md
+	Fabrication instructions
+	Image
+	Photo
+PUMA/Electronics/LED_Pad/README.md
+	Fabrication instructions
+	Image
+	Photo
+PUMA/Electronics/Motherboard/README.md
+	Fabrication instructions
+	Image
+	Photo
+PUMA/Electronics/PUMA_Lite/README.md
+	Fabrication instructions
+	Photo
+PUMA/FreeCAD/CelestronXCelLX/Monoc1p25.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/CelestronXCelLX/Monoc1p25_Dims.txt
+PUMA/FreeCAD/CelestronXCelLX/Ocular_Cap_Dims.txt
+PUMA/FreeCAD/CelestronXCelLX/Ocular_Cap_XCelLX.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/CelestronXCelLX/Ocular_Locknut_Dims.txt
+PUMA/FreeCAD/CelestronXCelLX/Ocular_Locknut_XCelLX.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/CelestronXCelLX/README.md
+	Video
+PUMA/FreeCAD/AF51_Accessories.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/AR_Projector.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Binocular.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Dominus_part1.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Dominus_part2.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Dominus_part3.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/FilterBlock.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Focus_Gears.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Legs.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Monocular.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/PUMALite.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/PUMA_Control.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/QuickRelease_v2.0.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Stabiliser.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Stage.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Trinocular_CP.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/XY_Stabiliser.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/Z_Motor.FCStd
+	FreeCAD source file
+PUMA/FreeCAD/README.md
+	Photo
+PUMA/Images/PUMA_OpenNeuroSci_Img.png
+PUMA/Images/ReadMe_Sm_SLM_Aperture_1.png
+PUMA/Images/ReadMe_Sm_Scopes.png
+PUMA/Software/PUMA_Control/README.md
+PUMA/Software/PUMA_Control_Manual.pdf
+	Photo
+PUMA/Software/ReadMe_PUMA_Software.md
+PUMA/docs/CODE_OF_CONDUCT.md
+PUMA/docs/CONTRIBUTING.md
+PUMA/docs/PUMA_Kohler_Illuminator_Specs.pdf
+	Video
+	Photo
+	Image
+PUMA/docs/QuickStartGuide.pdf
+	Entry point
+	Video
+	Assembly instructions
+	Photo
+	Image
+	BOM
+PUMA/README.md
+	Photo
+	Image
+#Overall
+Name conventions: Yes, for images in Electronics folder
+Version names in files: No
