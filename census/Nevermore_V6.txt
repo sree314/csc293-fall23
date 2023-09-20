@@ -1,0 +1,108 @@
+Nevermore_v6/cartridge_supports.png
+Nevermore_v6/Jalousie_ v2.f3d
+	Fusion360 Source File
+Nevermore_v6/JST_MOUNT.png
+Nevermore_v6/plenum_1.GIF
+Nevermore_v6/plenum_2.GIF
+Nevermore_v6/plenum_supports.png
+Nevermore_v6/README.md
+    Documentation
+    Entry point
+    BOM
+    Image
+    Video
+    Render
+    Wireframe
+    Print settings
+    Assembly instructions
+Nevermore_v6/STL/Alternate_Cartridge_door_Mod/After_Printing.jpg
+Nevermore_v6/STL/Alternate_Cartridge_door_Mod/Readme.md
+    Documentation
+    Assembly Instructions
+Nevermore_v6/STL/Alternate_Cartridge_door_Mod/Sliding_door.stl
+	Not oriented
+Nevermore_v6/STL/Alternate_Cartridge_door_Mod/v6_Cartridge_90deg_Sliding_Door_Mod.stl
+    Not oriented
+Nevermore_v6/STL/Optional_stuff/1515_Frame_Connector.stl
+	Oriented
+Nevermore_v6/STL/Optional_stuff/2020_Frame_Connector.stl
+	Oriented
+Nevermore_v6/STL/Optional_stuff/2xJST_Holder[no_cut_fan_wires].stl
+	Oriented
+Nevermore_v6/STL/Optional_stuff/v6_trident_rear_mount.stl
+	Oriented
+Nevermore_v6/STL/Optional_stuff/Wire_connector.stl
+	Oriented
+Nevermore_v6/STL/v6_Cartridge_90deg.stl
+	Oriented
+Nevermore_v6/STL/v6_Cartridge_Straight.stl
+	Oriented
+Nevermore_v6/STL/V6_Plenum[1515_extrusion].stl
+	Oriented
+Nevermore_v6/STL/V6_Plenum[2020_extrusion].stl
+	Oriented
+Nevermore_v6/STL/V6_Plenum_Lid.stl
+	Oriented
+Nevermore_v6/STL/XL_HEPA_Cartridge/1_XL_Cartridge.stl
+	Oriented
+Nevermore_v6/STL/XL_HEPA_Cartridge/2_XL_HEPA_Container[reg].stl
+	Oriented
+Nevermore_v6/STL/XL_HEPA_Cartridge/2_XL_HEPA_Container[small_hex].stl
+	Oriented
+Nevermore_v6/STL/XL_HEPA_Cartridge/3_XL_Jalousie[ABS_plus_or_softer].stl
+	Oriented
+Nevermore_v6/STL/XL_HEPA_Cartridge/3_XL_Jalousie[stiff_filament].stl
+	Oriented
+Nevermore_v6/STL/XL_HEPA_Cartridge/3_XL_Jalousie[THIN_with_PULLTAB].stl
+	Oriented
+Nevermore_v6/STL/XL_HEPA_Cartridge/README.md
+    Documentation
+    Assembly Instructions
+    Image
+    Render
+Nevermore_v6/STL/XL_HEPA_Cartridge/XL_Cartridge_HEPA.png
+Nevermore_v6/STL/XL_HEPA_Cartridge/XL_Cartridge_HEPA2.png
+Nevermore_v6/STL/XL_HEPA_Cartridge/XL_Cartridge_HEPA3.png
+Nevermore_v6/STL/[a]V6_Jalousie_Slicer.stl
+	Oriented
+Nevermore_v6/STL/[a]V6_Jalousie_Slicer[TAB][THIN].stl
+	Oriented
+Nevermore_v6/STL/[a]V6_Jalousie_Slicer_THIN[Stiff_filament][7_walls].3mf
+    Oriented
+Nevermore_v6/Sunon_Honeybadger_FAN/V6_PLENUM_1515_SUNON_HONEYBADGER.f3d
+	Fusion360 Source File
+Nevermore_v6/Sunon_Honeybadger_FAN/V6_PLENUM_1515_SUNON_HONEYBADGER.stl
+	Oriented
+Nevermore_v6/Sunon_Honeybadger_FAN/V6_PLENUM_2020_SUNON_HONEYBADGER.f3d
+	Fusion360 Source File
+Nevermore_v6/Sunon_Honeybadger_FAN/V6_PLENUM_2020_SUNON_HONEYBADGER.stl
+	Oriented
+Nevermore_v6/v0/v0_90deg_Cartridge.stl
+	Oriented
+Nevermore_v6/v0/V0_90_Degree_Cartridge_V6.f3d
+	Fusion360 Source File
+Nevermore_v6/v0/V0_PLENUM_1515_Extrusion_V6.f3d
+	Fusion360 Source File
+Nevermore_v6/v0/V0_PLENUM_1515_SUNON_HONEYBADGER_V6.f3d
+	Fusion360 Source File
+Nevermore_v6/v0/v0_Plenum_Delta_GDStime_Winsinn.stl
+	Oriented
+Nevermore_v6/v0/v0_Plenum_Sunon_Honeybadger.stl
+	Oriented
+Nevermore_v6/v0/v0_Straight_Cartridge.stl
+	Oriented
+Nevermore_v6/v0/V0_Straight_Cartridge_V6.f3d
+	Fusion360 Source File
+Nevermore_v6/V6_90_Degree_Cartridge.f3d
+	Fusion360 Source File
+Nevermore_v6/V6_micro.png
+Nevermore_v6/V6_PLENUM_1515_Extrusion.f3d
+	Fusion360 Source File
+Nevermore_v6/V6_PLENUM_2020_Extrusion.f3d
+	Fusion360 Source File
+Nevermore_v6/V6_Straight_Cartridge.f3d
+	Fusion360 Source File
+Nevermore_v6/WAGO_MOUNT.png
+#Overall
+File conventions: [version]_[size]_[parent component]_[part name]_[other modifiers]
+Version names in files: Yes
