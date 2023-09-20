@@ -1,0 +1,70 @@
+FlatburnOSCS/Build/Handbook/Flatburn_ Assembly Guide.pdf
+	Documentation
+	Assembly instructions
+	Image
+	Render
+	Photo
+FlatburnOSCS/Build/Handbook/README.md
+	Documentation
+	Assembly instructions
+	BOM
+	Image
+	Photo
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/Flatburn BoM (mechanical parts).xlsx
+	Documentation
+	BOM
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/Flatburn_assembly.step
+	Multipart
+	Non-printable
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/README.md
+	Documentation
+	Assembly instructions
+	Print settings
+	BOM
+	Image
+	Photo
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToLasercut/flatburn_bottom_plate_1-8in.dwg
+	Single Part
+	Non-printable
+	Image
+	Render
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToLasercut/flatburn_in-between_plate_5-64in.dxf
+	Single Part
+	Non-printable
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToLasercut/README.md
+	Documentation
+	Fabrication instructions
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToPrint/flatburn_core_module_back.stl
+	Not oriented
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToPrint/flatburn_core_module_front.stl
+	Not oriented
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToPrint/flatburn_in-between_plate(if not lasercutting).stl
+	Oriented
+	Count
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToPrint/flatburn_leg.stl
+	Not oriented
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToPrint/flatburn_pcb_clamp_left.stl
+	Not oriented
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToPrint/flatburn_pcb_clamp_right.stl
+	Not oriented
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToPrint/flatburn_sensor_module.stl
+	Oriented
+FlatburnOSCS/Build/Hardware/HardwareEnclosure/ToPrint/README.md
+	Documentation
+FlatburnOSCS/flatburn-images/Complete flatburn.jpg
+FlatburnOSCS/flatburn-images/Enclosure_assembly_overview_February_2023.png
+FlatburnOSCS/flatburn-images/Flatburn assembly 2.jpg
+FlatburnOSCS/flatburn-images/flatburn configuration.jpeg
+FlatburnOSCS/README.md
+	Documentation
+	Entry point
+	BOM
+	Image
+	Render
+FlatburnOSCS/Overall
+	Do the files use some naming conventions? --> Nothing consistent
+	Do the file names include version information? --> No
+	If the documentation is off site, the link to the documentation.
+		Documentation also found here: https://senseable.mit.edu/flatburn/
+	If the BOM is off site, the link to the BOM.
+		BOM only on GitHub
