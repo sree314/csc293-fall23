@@ -108,6 +108,9 @@ If pings are still failing, make sure the route is correct.
 route get -inet6 trident.thirdlaw.net # only on MacOS
 ```
 
+This should show that the address is routed through the interface
+identified by `ifconfig`.
+
 ### Check the IP and Key settings
 
 Make sure you've sent me the correct IP and the correct _public_ key.
