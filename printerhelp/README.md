@@ -55,6 +55,9 @@ G-code will then look like this:
 ```
 PRINT_START EXTRUDER={material_print_temperature_layer_0} BED={material_bed_temperature_layer_0} CHAMBER={build_volume_temperature} PRINT_MIN=%MINX%,%MINY% PRINT_MAX=%MAXX%,%MAXY%
 ```
+The printer has been tested with a print speed of 200mm/s, with first layer running around 50mm/s.
+
+
 
 ### Generic Settings
 
