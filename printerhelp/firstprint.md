@@ -38,7 +38,7 @@ If the printer does not contain the filament you want, do the following:
 
 ## Upload G-code and Print
 
-Upload the G-code you prepared to the printer using the **Upload and
+Upload the G-code you prepared to the printer using **Upload and
 Print**. Make sure the doors are closed.
 
 The printer will now begin printing. You should observe the following:
@@ -54,9 +54,9 @@ The printer will now begin printing. You should observe the following:
   8. Once heated, a purge line will be printed first.
   9. Then, your object will start printing.
 
-You can hit **Pause** to pause the print. You can then hit **Cancel** to cancel the print once it's paused.  These actions can take a while, especially if the printer is waiting for the bed or hotend to heat up.
+You can click **Pause** to pause the print. You can then click **Cancel** to cancel the print once it's paused.  These actions can take a while, especially if the printer is waiting for the bed or hotend to heat up.
 
-If something goes wrong, hit **Emergency Stop**.
+If something goes wrong, click **Emergency Stop**.
 
 ## Removing your printed object.
 
