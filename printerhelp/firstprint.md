@@ -19,13 +19,13 @@ Cube](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Test_Prints/Voro
 
 Slice the STL file in Cura to obtain G-code.
 
-
 DO THE FOLLOWING STEPS IN FRONT OF THE PRINTER.
 
 ## Load Filament
 
 If the printer does not contain the filament you want, do the following:
 
+  0. Connect to the [printer](http://trident.thirdlaw.net).
   1. Heat the hotend to a temperature of 230C.
   2. Click the **Unload Filament** button to eject the filament.
   3. Pull the filament out through the PTFE tube once it's been ejected.
@@ -38,8 +38,8 @@ If the printer does not contain the filament you want, do the following:
 
 ## Upload G-code and Print
 
-Upload the G-code you prepared to the printer using the **Upload Gcode
-and Print**. Make sure the doors are closed.
+Upload the G-code you prepared to the printer using the **Upload and
+Print**. Make sure the doors are closed.
 
 The printer will now begin printing. You should observe the following:
 
@@ -67,8 +67,8 @@ DO NOT OPEN THE DOOR UNTIL the bed temperature is less than 60C. This takes arou
 For additional safety, wait until the hotend has reached a temperature of less than 50C, and the hotend fan has stopped running.
 
 The printed object should auto-release from print bed (you can hear
-the object separating). However, some objects may be stuck to the
-print bed. In this case:
+the object separating). However, if the object is still stuck to the
+print bed:
 
    1. Remove the flex plate on top of the print bed AFTER making sure it is not hot.
    2. Flex the plate to release the object.
