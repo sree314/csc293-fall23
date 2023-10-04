@@ -52,13 +52,15 @@ for name, part in stepFile.traverse():
 # Have options to reposition parts 
 
 tmpAssembly = cq.Assembly()
-startMargin = 15
-gap = 50
+gapX = 10
+gapY = 100
 
+i = 0
 for name, part in stepFile.traverse():
     if len(part.children) == 0:
         print("Adding: " + name + " to .svg")
-        tmpAssembly.add(part)
+        tmpAssembly.add(part, loc=cq.Location(cq.Vector(gapX*i, 0, gapY*i)))
+        i = i + 1
 cq.exporters.export(tmpAssembly.toCompound(), fileName+"_custom.svg",)
 
 # <-- Task 4: Add arbitrary graphic support for SVG export -->
@@ -66,7 +68,19 @@ cq.exporters.export(tmpAssembly.toCompound(), fileName+"_custom.svg",)
 # Shading certain surfaces on specific part in SVG
 # Add small SVG icons to exported file
 
+tmpAssembly = cq.Assembly()
+gapX = 10
+gapY = 100
+
+i = 0
+for name, part in stepFile.traverse():
+    if len(part.children) == 0:
+        print("Adding: " + name + " to .svg")
+        tmpAssembly.add(part, loc=cq.Location(cq.Vector(gapX*i, 0, gapY*i)), color=(0, 50*i, 0))
+        i = i + 1
+cq.exporters.export(tmpAssembly.toCompound(), fileName+"_custom.svg",)
+
 # <-- Task 5: MAke a list of STEP files for future testing -->
-# 1. 
+# 1. CoralFragPlugStand.STEP --> A part I made for my dads fish tank
 # 2. 
 # 3. 
