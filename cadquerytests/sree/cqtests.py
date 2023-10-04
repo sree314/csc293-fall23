@@ -19,7 +19,23 @@ x.load("/home/sree/voron/c270-mount/CAD/C270_assembly.step")
 a = x.to_cadquery()
 print("done")
 
-for o, oo in a.traverse():
+test = cq.Assembly()
+for i, (o, oo) in enumerate(a.traverse()):
     print(o)
     print(oo)
-    exporters.export(oo.toCompound(), f"/tmp/{o}.stl")
+    for oos in oo.shapes:
+        print("**", oos)
+    #exporters.export(oo.toCompound(), f"/tmp/{o}.stl")
+
+    if i == 0 or i == 3:
+        if i == 0: continue
+        for j, oos in enumerate(oo.shapes):
+            print(oos.Center())
+            if i == 3:
+                test.add(oos.scale(5), color=(1,0,0,0))
+            else:
+                test.add(oos)
+
+
+
+exporters.export(test.toCompound(), f"/tmp/x.svg")
