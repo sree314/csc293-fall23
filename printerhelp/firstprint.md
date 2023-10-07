@@ -74,4 +74,4 @@ print bed:
    2. Flex the plate to release the object.
    3. Put the flex plate back.
 
-
+NEVER USE A SCRAPER TO REMOVE THE OBJECT FROM THE BED.
