@@ -49,3 +49,19 @@ Part info file
 
 
 
+step converter
+- step files = 3D parts
+- json files = sources, step file, part info
+- text files
+
+Classes:
+- Source
+    - stepfile
+    - partInfo
+    - to_dict()
+    - from_dict()
+- PartInfo
+    - id/name
+    - orientation 
+    - to_dict()
+    - from_dict()
