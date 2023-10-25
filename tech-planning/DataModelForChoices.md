@@ -9,11 +9,11 @@ Each part will have certain effect attributes that are used if it is selected
  - **Choice Scale Effect**: Tell us the parts scale if selected (100% default)
 
 ## Rough Pseudocode:
-`parts = {list of parts}`
-`selParts = {set of parts}`
-`for p in parts:`
-	`if p.selected(choice):`
-		`selPart.add(p)`
+`parts = {list of parts}`\
+`selParts = {set of parts}`\
+`for p in parts:`\
+	`if p.selected(choice):`\
+		`selPart.add(p)`\
 
 ## Choice Hierarchy and Structure:
  - Choices will be formed into a decsion tree where each node is a choice and each leaf is a set of parts to be printed based on those choices
