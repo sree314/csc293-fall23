@@ -10,9 +10,13 @@ Each part will have certain effect attributes that are used if it is selected
 
 ## Rough Pseudocode:
 `parts = {list of parts}`\
+
 `selParts = {set of parts}`\
+
 `for p in parts:`\
+
 	`if p.selected(choice):`\
+
 		`selPart.add(p)`\
 
 ## Choice Hierarchy and Structure:
